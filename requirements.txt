@@ -1,4 +1,4 @@
-torch==1.4.0
+torch==2.2.0
 seqeval==0.0.12
 pytorch-crf==0.7.2
 gdown==3.10.1
